@@ -3,6 +3,7 @@ import time
 import math
 
 try:
+# SSH 
     link = "http://SunInJuly.github.io/execute_script.html"
     browser = webdriver.Chrome()
     browser.get(link)
